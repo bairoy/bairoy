@@ -24,9 +24,9 @@ CS Engineering student building AI-powered systems at the intersection of machin
 
 **[FutureEdge](https://github.com/bairoy/futureedge)** — Autonomous multi-agent AI trading system for Indian equity markets. A 7-agent LangGraph workflow (Signal, Risk, Execution, Portfolio, LLM Reasoner) with a human-in-the-loop validation gate and a real-time WebSocket streaming dashboard.
 
-**FinConnect** — Scalable fintech social network backend in Spring Boot, with stateless JWT security, an optimized self-referencing social graph (JPQL join projections to kill N+1 queries), direct-to-cloud S3 uploads via presigned URLs, and full containerized CI/CD with Docker, Kubernetes, and Jenkins.
+**[Finconnect](https://github.com/bairoy/finconnect)** — Scalable fintech social network backend in Spring Boot, with stateless JWT security, an optimized self-referencing social graph (JPQL join projections to kill N+1 queries), direct-to-cloud S3 uploads via presigned URLs, and full containerized CI/CD with Docker, Kubernetes, and Jenkins.
 
-**FarmSense** — Full-stack agricultural AI platform: a ResNet18 CNN for crop disease detection (90%+ accuracy) served via FastAPI, plus a LangGraph conversational assistant grounded in live agronomic telemetry.
+**[FarmSense](https://github.com/bairoy/farmsense)** — Full-stack agricultural AI platform: a ResNet18 CNN for crop disease detection (90%+ accuracy) served via FastAPI, plus a LangGraph conversational assistant grounded in live agronomic telemetry.
 
 **Real-Time Yoga Pose Correction** — Hackathon Runner-Up (2nd/50+ teams). Skeletal tracking across 33 body landmarks with sub-100ms inference latency and real-time voice-guided posture correction.
 
