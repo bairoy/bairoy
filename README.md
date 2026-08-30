@@ -1,35 +1,39 @@
 <h1 align="center">Hi, I'm Baiju 👋</h1>
 
 <p align="center">
-Software Engineer AI and Fintech
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=750&height=60&lines=Software+Engineer+%7C+AI+%26+Fintech;Building+autonomous+multi-agent+AI+systems;Java+%E2%80%A2+Python+%E2%80%A2+Spring+Boot+%E2%80%A2+LangGraph;Open+to+AI%2FML+and+SWE+internships" alt="Typing SVG" />
+  </a>
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software Engineer AI and Fintecht)](https://git.io/typing-svg)
 
 <p align="center">
-<a href="https://linkedin.com/in/baiju-yadav-7127b72b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="mailto:ijubadv999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/baiju-yadav-7127b72b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://baiju-yadav.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="mailto:ijubadv999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+<img src="https://komarev.com/ghpvc/?username=bairoy&style=flat&color=36BCF7&label=Profile+views" alt="Profile views">
 </p>
 
 ---
 
 ### About me
 
-- 🎓 B.Tech in Computer Science Engineering & Business Systems, VIT University 
+- 🎓 B.Tech in Computer Science Engineering & Business Systems, VIT University
 - 🤖 Focused on AI/ML systems and full-stack software engineering, with a long-term goal of working in fintech
 - 🔨 Currently building **FutureEdge**, an autonomous multi-agent AI trading system for Indian equity markets
-
+- 💬 Ask me about LangGraph agent workflows, Spring Boot backends, or shipping ML models to production
+- 🌐 Portfolio (with a RAG chatbot that answers questions about my work): **[baiju-yadav.netlify.app](https://baiju-yadav.netlify.app/)**
+- 📫 Reach me at **ijubadv999@gmail.com**
 
 ---
 
 ### 🔭 Featured projects
 
-**[FutureEdge](https://github.com/bairoy/futureedge)** — Autonomous multi-agent AI trading system for Indian equity markets. A 7-agent LangGraph workflow (Signal, Risk, Execution, Portfolio, LLM Reasoner) with a human-in-the-loop validation gate and a real-time WebSocket streaming dashboard.
-
-**[Finconnect](https://github.com/bairoy/finconnect)** — Scalable fintech social network backend in Spring Boot, with stateless JWT security, an optimized self-referencing social graph (JPQL join projections to kill N+1 queries), direct-to-cloud S3 uploads via presigned URLs, and full containerized CI/CD with Docker, Kubernetes, and Jenkins.
-
-**[FarmSense](https://github.com/bairoy/farmsense)** — Full-stack agricultural AI platform: a ResNet18 CNN for crop disease detection (90%+ accuracy) served via FastAPI, plus a LangGraph conversational assistant grounded in live agronomic telemetry.
-
-**Real-Time Yoga Pose Correction** — Hackathon Runner-Up (2nd/50+ teams). Skeletal tracking across 33 body landmarks with sub-100ms inference latency and real-time voice-guided posture correction.
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[FutureEdge](https://github.com/bairoy/FutureEdge)** | Autonomous multi-agent AI trading system for Indian equity markets — a 7-agent LangGraph workflow (Signal, Risk, Execution, Portfolio, LLM Reasoner) with a human-in-the-loop validation gate and a real-time WebSocket streaming dashboard. | `LangGraph` `FastAPI` `WebSockets` |
+| **[Finconnect](https://github.com/bairoy/finconnect)** | Scalable fintech social network backend — stateless JWT security, an optimized self-referencing social graph (JPQL join projections to kill N+1 queries), direct-to-cloud S3 uploads via presigned URLs, and full containerized CI/CD. | `Spring Boot` `Docker` `K8s` `Jenkins` |
+| **[FarmSense](https://github.com/bairoy/FarmSense)** | Full-stack agricultural AI platform — a ResNet18 CNN for crop disease detection (90%+ accuracy) served via FastAPI, plus a LangGraph conversational assistant grounded in live agronomic telemetry. | `PyTorch` `FastAPI` `LangGraph` |
+| **[Real-Time Yoga Pose Correction](https://github.com/bairoy/YogaHack)** | 🏆 Hackathon Runner-Up (2nd / 50+ teams) — skeletal tracking across 33 body landmarks with sub-100ms inference latency and real-time voice-guided posture correction. | `OpenCV` `MediaPipe` |
 
 ---
 
@@ -85,6 +89,42 @@ Software Engineer AI and Fintech
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white">
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat">
 <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat">
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bairoy&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bairoy&theme=github" alt="GitHub stats" height="200">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bairoy&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bairoy&theme=github" alt="Most used languages" height="200">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bairoy&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bairoy&theme=github" alt="Repos per language" height="200">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bairoy&hide_border=true&theme=github-dark">
+    <img src="https://streak-stats.demolab.com?user=bairoy&hide_border=true" alt="GitHub streak">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bairoy/bairoy/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/bairoy/bairoy/output/github-snake.svg" alt="Snake eating my contribution graph">
+  </picture>
 </p>
 
 ---
