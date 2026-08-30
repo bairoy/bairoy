@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Baiju 👋</h1>
 
 <p align="center">
-CS Engineering student building AI-powered systems at the intersection of machine learning and fintech.
+Software Engineer AI and Fintech
 </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software Engineer AI and Fintecht)](https://git.io/typing-svg)
 
 <p align="center">
 <a href="https://linkedin.com/in/baiju-yadav-7127b72b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
