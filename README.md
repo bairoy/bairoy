@@ -9,7 +9,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/baiju-yadav-7127b72b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://baiju-yadav.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<img src="https://komarev.com/ghpvc/?username=bairoy&style=flat&color=36BCF7&label=Profile+views" alt="Profile views">
 </p>
 
 ---
@@ -94,13 +93,6 @@
 ---
 
 ### 📊 GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bairoy&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bairoy&theme=github" alt="GitHub stats" height="200">
-  </picture>
-</p>
 
 <p align="center">
   <picture>
